@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @o-r-parmar
+- 👀 I’m interested in Computer Vision
+- 🌱 I’m currently learning Web Development and OpenCV
+- 💞️ I’m looking to collaborate on something...
+- 📫 omparmar10@gmail.com
